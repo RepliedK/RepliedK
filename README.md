@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello! 👋 I'm RepliedK (Luis Garcia)
 
-<!--
-**RepliedK/RepliedK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with expertise in PHP and Java, specializing in technologies like PMMP, Nukkit, Spigot, and Spring. Below, you'll find a brief overview of my skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 PHP and Java Developer
+- 🌐 Proficient in PMMP, Nukkit, Spigot, and Spring
+- 📧 Contact: repliedk@gmail.com
+
+## Skills
+
+- PHP
+- Java
+- PMMP
+- Nukkit
+- Spigot/Bukkit
+- Spring
+
+## Contact
+
+I'm always open to new opportunities and collaborations! If you have any questions or want to discuss a project, feel free to contact me:
+
+- 📧 Email: repliedk@gmail.com
+- 🔰 Discord: repliedk
+
+## GitHub Statistics
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RepliedK&show_icons=true&hide=contribs,prs&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RepliedK&layout=compact&theme=merco&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Thanks for visiting my profile! I hope you find my projects and contributions interesting. Feel free to explore my repositories, and reach out if you have any questions or suggestions.
