@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in PHP a
 ## About Me
 
 - 💻 PHP and Java Developer
-- 🌐 Proficient in PMMP, Nukkit, Spigot, and Spring
+- 🌐 Proficient in PMMP & Nukkit
 - 📧 Contact: repliedk@gmail.com
 
 ## Skills
@@ -14,15 +14,12 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in PHP a
 - Java
 - PMMP
 - Nukkit
-- Spigot/Bukkit
-- Spring
 
 ## Contact
 
 I'm always open to new opportunities and collaborations! If you have any questions or want to discuss a project, feel free to contact me:
 
 - 📧 Email: repliedk@gmail.com
-- 🔰 Discord: repliedk
 
 ## GitHub Statistics
 
